@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center">学生 / 业余无线电爱好者<br>Student / Radio Amateur (Ham)</p>
+
+<p align="center"> 业余电台呼号 Amateur Radio Callsign <b>BD3PDD</b>👋</p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=izzp&count_private=true&show_icons=true)](https://github.com/izzp)
 <!--
