@@ -3,6 +3,18 @@
 <p align="center"> 业余电台呼号 Amateur Radio Callsign <b>BD3PDD</b>👋</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=izzp&count_private=true&show_icons=true"  alt="izzp" /></p>
+
+### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+![Java](https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=java&logoColor=ffffff)
+
+![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=%23ffffff)
+![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=ffffff)
+
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![IDEA](https://img.shields.io/badge/-IDEA-%23000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=%23ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=%23ffffff)
+![Chrome](https://img.shields.io/badge/-Chrome-%234285F4?style=flat-square&logo=google-chrome&logoColor=%23ffffff)
+
 <!--
 **izzp/izzp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
