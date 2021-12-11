@@ -1,11 +1,16 @@
+# 👋 Hey!
+
 <p align="center">学生 / 业余无线电爱好者<br>Student / Radio Amateur (Ham)</p>
 
 <p align="center"> 业余电台呼号 Amateur Radio Callsign <b>BD3PDD</b>👋</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=izzp&count_private=true&show_icons=true"  alt="izzp" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=izzp&count_private=true&show_icons=true&hide_title=true"  alt="izzp" /></p>
 
 ### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzp&layout=compact"/>
+
 ![Java](https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=java&logoColor=ffffff)
+![dotnet](https://img.shields.io/badge/-.net-512bd4?style=flat-square&logo=dotnet&logoColor=ffffff)
 
 ![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=%23ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=ffffff)
