@@ -19,14 +19,16 @@
 ![dotnet](https://img.shields.io/badge/-.net-512bd4?style=flat-square&logo=dotnet&logoColor=ffffff)
 ![python](https://img.shields.io/badge/-Python-1D415E?style=flat-square&logo=Python&labelColor=3772A2&logoColor=FFDA4C)
 ![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=%23ffffff)
-![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=ffffff)
+![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 ![win10](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)
-![win10](https://img.shields.io/badge/manjaro-%35BF5C?style=flat-square&logo=manjaro&logoColor=ffffff)
+![manjaro](https://img.shields.io/badge/manjaro-%35BF5C?style=flat-square&logo=manjaro&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=ffffff)
 ![Jetbrains](https://img.shields.io/badge/Jetbrains-000000?style=flat-square&logo=jetbrains&logoColor=ffffff)
 ![VS](https://img.shields.io/badge/-VisualStudio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=%23ffffff)
 ![Chrome](https://img.shields.io/badge/-Chrome-%234285F4?style=flat-square&logo=google-chrome&logoColor=%23ffffff)
+![Firefox](https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=%23ffffff)
 
 <!--
 **izzp/izzp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
