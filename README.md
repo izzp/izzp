@@ -30,6 +30,13 @@
 ![Chrome](https://img.shields.io/badge/-Chrome-%234285F4?style=flat-square&logo=google-chrome&logoColor=%23ffffff)
 ![Firefox](https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=%23ffffff)
 
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <br/>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rzashakeri's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=izzp&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
+</details>
+
+
 <!--
 **izzp/izzp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
