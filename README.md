@@ -4,7 +4,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=izzp&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" width="400px" />
 </a>
 
-- 💻 Student, Computer science and technology
+- 💻 Computer science and technology
 - 📡 I'm noob HAM, My call sign is `BD3PDD`
 - 📫 How to reach me: `i@mezzp.com`
 
