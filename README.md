@@ -4,7 +4,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=izzp&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" width="400px" />
 </a>
 
-- 💻 Computer science and technology
+- 💻 Fussy Engineer
 - 📡 I'm noob HAM, My call sign is `BD3PDD`
 - 📫 How to reach me: `i@mezzp.com`
 
@@ -20,7 +20,7 @@
 ![python](https://img.shields.io/badge/-Python-1D415E?style=flat-square&logo=Python&labelColor=3772A2&logoColor=FFDA4C)
 ![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=%23ffffff)
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
-![win10](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)
+![win11](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)
 ![manjaro](https://img.shields.io/badge/manjaro-%35BF5C?style=flat-square&logo=manjaro&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=ffffff)
