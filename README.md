@@ -5,6 +5,7 @@
 </a>
 
 - 💻 Fussy Engineer
+- 📈 New to investing
 - 📡 I'm noob HAM, My call sign is `BD3PDD`
 - 📫 How to reach me: `i@mezzp.com`
 
